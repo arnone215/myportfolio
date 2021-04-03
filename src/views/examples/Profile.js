@@ -108,16 +108,16 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
+                          <span className="heading">0</span>
                           <span className="description">Friends</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">0</span>
+                          <span className="description">label 2</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">0</span>
+                          <span className="description">label 3</span>
                         </div>
                       </div>
                     </Col>
@@ -125,7 +125,7 @@ class Profile extends React.Component {
                   <div className="text-center mt-5">
                     <h3>
                       Thomas Arnone{" "}
-                      <span className="font-weight-light">, 27</span>
+                      <span className="font-weight-light">, 32</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
@@ -144,11 +144,7 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                          Decorated Combat Veteran with proven track record of success looking to get into tech.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
