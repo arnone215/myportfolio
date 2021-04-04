@@ -166,7 +166,8 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="primary"
                             href="https://github.com/arnone215"
-                            onClick={e => e.preventDefault()}
+                            target="_blank"
+                            // onClick={e => e.preventDefault()}
                           >
                             View Here!
                           </Button>
@@ -200,7 +201,8 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="success"
                             href="https://github.com/arnone215"
-                            onClick={e => e.preventDefault()}
+                            target="_blank"
+                            // onClick={e => e.preventDefault()}
                           >
                             View Here!
                           </Button>
@@ -234,7 +236,8 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="warning"
                             href="https://github.com/arnone215"
-                            onClick={e => e.preventDefault()}
+                            target="_blank"
+                            // onClick={e => e.preventDefault()}
                           >
                             View here!
                           </Button>
